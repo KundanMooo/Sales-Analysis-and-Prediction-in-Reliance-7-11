@@ -1,4 +1,4 @@
-# Sales-Prediction-7-11
+# Sales-Prediction-7-eleven
 Predicting Weekly Sales in Reliance 7-11 Superstores with 88% Accuracy using EDA ,Feature Engineering and  RFE
 This project analyzes sales data from 711 superstores, employing advanced techniques such as feature engineering, outlier removal, and recursive feature elimination. Insights are gained through exploratory data analysis, revealing relationships between variables. By developing a linear regression model, weekly sales predictions are made with an accuracy of 88%. The project highlights feature selection for accurate predictions. Overall, this project offers valuable insights and a reliable predictive model for sales analysis in superstores.
 
