@@ -27,7 +27,7 @@ profitable ideas throughout all of your locations.
 impact on sales. Put your efforts on improving these key drivers. Consider dedicating more
 funds to enhancing particular product categories or promotions, for instance, if the study
 reveals that they have a significant impact on sales.
-Sales Forecasting:-
+### Sales Forecasting:-
 - The project’s sales prediction model can be a useful tool for making future forecasts. Continually
 improve and enhance the model using new information and user input. You can
 make wise decisions regarding manufacturing, staff, and resource allocation with the help of
